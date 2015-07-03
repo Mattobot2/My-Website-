@@ -1,0 +1,54 @@
+title{ font-size: 40px;
+  background: red;
+}
+header {
+    background-color:black;
+    color:pink;
+    text-align:center;
+    padding:5px;	 
+}
+
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:red;
+    clear:both;
+    text-align:center;
+    padding:5px;	
+    float: bottom;
+      
+}
+
+.left {
+float:left;
+width:625px;
+background-color:orange;
+  color:blue; 
+}
+.right {
+float:right;
+width:625px;
+background-color:green;
+  color:orange; 
+}
+
+.bottom {
+    clear:both;
+    text-align:center;
+    padding:5px;	
+    float: bottom;
+  background-color:red;
+  color: yellow
+}

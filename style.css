@@ -1,0 +1,64 @@
+#article{}
+#title{ font-size: 40px;
+  background: red;
+}
+header {
+    background-color:black;
+    color:purple;
+    text-align:center;
+    padding:5px;	 
+}
+#SuperComputer{width: 290px;
+  height: 250px;}
+#AnalogComputer{width:300px;
+   height:225px;}
+#Z3Computer{width:290px;
+height: 225px;}
+#QuantumComputer{width:350px;
+height: 330px;}
+#FirstComputerwithTransistors{width:290px;
+height: 225px}
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:red;
+    clear:both;
+    text-align:center;
+    padding:5px;	
+    float: bottom;
+      
+}
+
+.left {
+float:left;
+width:625px;
+background-color:green;
+  color:blue; 
+}
+.right {
+float:right;
+width:625px;
+background-color:blue;
+  color:red; 
+}
+
+.bottom {
+    clear:both;
+    text-align:center;
+    padding:5px;	
+    float: bottom;
+  background-color:red;
+  color: yellow
+}
